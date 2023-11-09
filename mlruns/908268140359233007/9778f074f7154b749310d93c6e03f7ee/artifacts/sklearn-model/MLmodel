@@ -1,0 +1,27 @@
+artifact_path: sklearn-model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.8.0
+model_size_bytes: 1461
+model_uuid: cba78d132db74b6bbc28c8050cf0688b
+run_id: 9778f074f7154b749310d93c6e03f7ee
+signature:
+  inputs: '[{"type": "double", "name": "Base MSRP"}, {"type": "double", "name": "Model
+    Year"}, {"type": "double", "name": "City"}, {"type": "double", "name": "State"},
+    {"type": "double", "name": "County"}, {"type": "double", "name": "Make"}, {"type":
+    "double", "name": "Model"}, {"type": "double", "name": "Electric Range"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2023-11-07 22:53:08.335603'

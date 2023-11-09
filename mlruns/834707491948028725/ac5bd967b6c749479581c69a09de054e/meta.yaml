@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MyTrunk/SoftUni/Mashine_Learning_labs/End-to-End-ML-Project-Electric-Vehicle/mlruns/834707491948028725/ac5bd967b6c749479581c69a09de054e/artifacts
+end_time: 1699178459147
+entry_point_name: ''
+experiment_id: '834707491948028725'
+lifecycle_stage: active
+run_id: ac5bd967b6c749479581c69a09de054e
+run_name: First Test Run - Check the settings
+run_uuid: ac5bd967b6c749479581c69a09de054e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699174203003
+status: 3
+tags: []
+user_id: GETAC USER
