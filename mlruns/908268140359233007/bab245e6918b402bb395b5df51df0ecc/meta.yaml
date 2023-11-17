@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MyTrunk/SoftUni/Mashine_Learning_labs/End-to-End-ML-Project-Electric-Vehicle/mlruns/908268140359233007/bab245e6918b402bb395b5df51df0ecc/artifacts
+end_time: 1699551367008
+entry_point_name: ''
+experiment_id: '908268140359233007'
+lifecycle_stage: active
+run_id: bab245e6918b402bb395b5df51df0ecc
+run_name: LinerRegression using GridSearch with additional metrics
+run_uuid: bab245e6918b402bb395b5df51df0ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699549944250
+status: 3
+tags: []
+user_id: GETAC USER
