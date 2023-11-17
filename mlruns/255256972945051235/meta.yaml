@@ -1,6 +1,0 @@
-artifact_location: file:///C:/MyTrunk/SoftUni/Mashine_Learning_labs/End-to-End-ML-Project-Electric-Vehicle/mlruns/255256972945051235
-creation_time: 1700202644194
-experiment_id: '255256972945051235'
-last_update_time: 1700202644194
-lifecycle_stage: active
-name: LinearRegression_Pipeline
