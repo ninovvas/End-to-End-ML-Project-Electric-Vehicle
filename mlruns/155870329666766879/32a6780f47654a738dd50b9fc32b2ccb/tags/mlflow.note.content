@@ -1,0 +1,6 @@
+
+### LinerRegression Run
+Changes and adaptations:
+- use OneCodeEncoder for the frature __VIN(1-10)__
+- Add description to each run
+    

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MyTrunk/SoftUni/Mashine_Learning_labs/End-to-End-ML-Project-Electric-Vehicle/mlruns/155870329666766879/630d8b8e2a6e4e62801ab7b021b8ac38/artifacts
+deleted_time: 1700403340299
+end_time: 1700386203473
+entry_point_name: ''
+experiment_id: '155870329666766879'
+lifecycle_stage: deleted
+run_id: 630d8b8e2a6e4e62801ab7b021b8ac38
+run_name: LinerRegression_PL_06
+run_uuid: 630d8b8e2a6e4e62801ab7b021b8ac38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700386070280
+status: 3
+tags: []
+user_id: GETAC USER

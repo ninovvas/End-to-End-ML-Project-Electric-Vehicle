@@ -1,0 +1,1 @@
+{'classifier': LogisticRegression(C=10000000000.0, random_state=1), 'classifier__C': 10000000000.0, 'classifier__max_iter': 100, 'classifier__penalty': 'l2', 'classifier__solver': 'lbfgs'}

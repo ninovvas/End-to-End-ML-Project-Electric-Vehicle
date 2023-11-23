@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1700689583881
+current_stage: None
+description: null
+last_updated_timestamp: 1700689583881
+name: LogisticRegression
+run_id: 9085b437293843f1872c33ff1f0b8a67
+run_link: null
+source: file:///C:/MyTrunk/SoftUni/Mashine_Learning_labs/End-to-End-ML-Project-Electric-Vehicle/mlruns/155870329666766879/9085b437293843f1872c33ff1f0b8a67/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///C:/MyTrunk/SoftUni/Mashine_Learning_labs/End-to-End-ML-Project-Electric-Vehicle/mlruns/155870329666766879/9085b437293843f1872c33ff1f0b8a67/artifacts/sklearn-model
+user_id: null
+version: 25

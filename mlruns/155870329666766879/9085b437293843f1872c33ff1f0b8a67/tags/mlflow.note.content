@@ -1,0 +1,7 @@
+
+### LinerRegression Run
+Changes and adaptations:
+- Analyse the __n_components__
+- Add PCA for linear dimensionality reduction in the Pipeline
+- Adapt Pipeline for more as one classifier
+    

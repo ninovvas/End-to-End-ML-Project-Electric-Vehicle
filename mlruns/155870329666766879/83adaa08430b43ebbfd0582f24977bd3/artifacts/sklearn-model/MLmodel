@@ -1,0 +1,115 @@
+artifact_path: sklearn-model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.8.0
+model_size_bytes: 35975
+model_uuid: a0f4cd106ff14d1ba07d04200c27f077
+run_id: 83adaa08430b43ebbfd0582f24977bd3
+signature:
+  inputs: '[{"type": "double", "name": "Postal Code"}, {"type": "long", "name": "Model
+    Year"}, {"type": "double", "name": "Legislative District"}, {"type": "long", "name":
+    "DOL Vehicle ID"}, {"type": "double", "name": "x0_AUDI"}, {"type": "double", "name":
+    "x0_AZURE DYNAMICS"}, {"type": "double", "name": "x0_BENTLEY"}, {"type": "double",
+    "name": "x0_BMW"}, {"type": "double", "name": "x0_CADILLAC"}, {"type": "double",
+    "name": "x0_CHEVROLET"}, {"type": "double", "name": "x0_CHRYSLER"}, {"type": "double",
+    "name": "x0_FIAT"}, {"type": "double", "name": "x0_FISKER"}, {"type": "double",
+    "name": "x0_FORD"}, {"type": "double", "name": "x0_GENESIS"}, {"type": "double",
+    "name": "x0_HONDA"}, {"type": "double", "name": "x0_HYUNDAI"}, {"type": "double",
+    "name": "x0_JAGUAR"}, {"type": "double", "name": "x0_JEEP"}, {"type": "double",
+    "name": "x0_KIA"}, {"type": "double", "name": "x0_LAND ROVER"}, {"type": "double",
+    "name": "x0_LEXUS"}, {"type": "double", "name": "x0_LINCOLN"}, {"type": "double",
+    "name": "x0_LUCID"}, {"type": "double", "name": "x0_MAZDA"}, {"type": "double",
+    "name": "x0_MERCEDES-BENZ"}, {"type": "double", "name": "x0_MINI"}, {"type": "double",
+    "name": "x0_MITSUBISHI"}, {"type": "double", "name": "x0_NISSAN"}, {"type": "double",
+    "name": "x0_POLESTAR"}, {"type": "double", "name": "x0_PORSCHE"}, {"type": "double",
+    "name": "x0_RIVIAN"}, {"type": "double", "name": "x0_SMART"}, {"type": "double",
+    "name": "x0_SUBARU"}, {"type": "double", "name": "x0_TESLA"}, {"type": "double",
+    "name": "x0_TH!NK"}, {"type": "double", "name": "x0_TOYOTA"}, {"type": "double",
+    "name": "x0_VOLKSWAGEN"}, {"type": "double", "name": "x0_VOLVO"}, {"type": "double",
+    "name": "x0_WHEEGO ELECTRIC CARS"}, {"type": "double", "name": "x0_Clean Alternative
+    Fuel Vehicle Eligible"}, {"type": "double", "name": "x0_Eligibility unknown as
+    battery range has not been researched"}, {"type": "double", "name": "x0_Not eligible
+    due to low battery range"}, {"type": "double", "name": "x0_330E"}, {"type": "double",
+    "name": "x0_500"}, {"type": "double", "name": "x0_530E"}, {"type": "double", "name":
+    "x0_740E"}, {"type": "double", "name": "x0_745E"}, {"type": "double", "name":
+    "x0_745LE"}, {"type": "double", "name": "x0_918"}, {"type": "double", "name":
+    "x0_A3"}, {"type": "double", "name": "x0_A7"}, {"type": "double", "name": "x0_A8
+    E"}, {"type": "double", "name": "x0_ACCORD"}, {"type": "double", "name": "x0_AIR"},
+    {"type": "double", "name": "x0_ARIYA"}, {"type": "double", "name": "x0_AVIATOR"},
+    {"type": "double", "name": "x0_B-CLASS"}, {"type": "double", "name": "x0_BENTAYGA"},
+    {"type": "double", "name": "x0_BOLT EUV"}, {"type": "double", "name": "x0_BOLT
+    EV"}, {"type": "double", "name": "x0_BZ4X"}, {"type": "double", "name": "x0_C-CLASS"},
+    {"type": "double", "name": "x0_C-MAX"}, {"type": "double", "name": "x0_C40"},
+    {"type": "double", "name": "x0_CAYENNE"}, {"type": "double", "name": "x0_CITY"},
+    {"type": "double", "name": "x0_CLARITY"}, {"type": "double", "name": "x0_CORSAIR"},
+    {"type": "double", "name": "x0_COUNTRYMAN"}, {"type": "double", "name": "x0_CROSSTREK"},
+    {"type": "double", "name": "x0_CT6"}, {"type": "double", "name": "x0_CX-90"},
+    {"type": "double", "name": "x0_E-GOLF"}, {"type": "double", "name": "x0_E-TRON"},
+    {"type": "double", "name": "x0_E-TRON GT"}, {"type": "double", "name": "x0_E-TRON
+    SPORTBACK"}, {"type": "double", "name": "x0_EDV"}, {"type": "double", "name":
+    "x0_ELR"}, {"type": "double", "name": "x0_EQ FORTWO"}, {"type": "double", "name":
+    "x0_EQB-CLASS"}, {"type": "double", "name": "x0_EQE-CLASS SEDAN"}, {"type": "double",
+    "name": "x0_EQS-CLASS SEDAN"}, {"type": "double", "name": "x0_EQS-CLASS SUV"},
+    {"type": "double", "name": "x0_ESCAPE"}, {"type": "double", "name": "x0_EV6"},
+    {"type": "double", "name": "x0_F-150"}, {"type": "double", "name": "x0_FLYING
+    SPUR"}, {"type": "double", "name": "x0_FOCUS"}, {"type": "double", "name": "x0_FORTWO"},
+    {"type": "double", "name": "x0_FORTWO ELECTRIC DRIVE"}, {"type": "double", "name":
+    "x0_FUSION"}, {"type": "double", "name": "x0_G80"}, {"type": "double", "name":
+    "x0_GLC-CLASS"}, {"type": "double", "name": "x0_GLE-CLASS"}, {"type": "double",
+    "name": "x0_GRAND CHEROKEE"}, {"type": "double", "name": "x0_GV60"}, {"type":
+    "double", "name": "x0_GV70"}, {"type": "double", "name": "x0_HARDTOP"}, {"type":
+    "double", "name": "x0_I-MIEV"}, {"type": "double", "name": "x0_I-PACE"}, {"type":
+    "double", "name": "x0_I3"}, {"type": "double", "name": "x0_I4"}, {"type": "double",
+    "name": "x0_I8"}, {"type": "double", "name": "x0_ID.4"}, {"type": "double", "name":
+    "x0_IONIQ"}, {"type": "double", "name": "x0_IONIQ 5"}, {"type": "double", "name":
+    "x0_IONIQ 6"}, {"type": "double", "name": "x0_IX"}, {"type": "double", "name":
+    "x0_KARMA"}, {"type": "double", "name": "x0_KONA"}, {"type": "double", "name":
+    "x0_KONA ELECTRIC"}, {"type": "double", "name": "x0_LEAF"}, {"type": "double",
+    "name": "x0_LYRIQ"}, {"type": "double", "name": "x0_MODEL 3"}, {"type": "double",
+    "name": "x0_MODEL S"}, {"type": "double", "name": "x0_MODEL X"}, {"type": "double",
+    "name": "x0_MODEL Y"}, {"type": "double", "name": "x0_MUSTANG MACH-E"}, {"type":
+    "double", "name": "x0_NIRO"}, {"type": "double", "name": "x0_NX"}, {"type": "double",
+    "name": "x0_OPTIMA"}, {"type": "double", "name": "x0_OUTLANDER"}, {"type": "double",
+    "name": "x0_PACIFICA"}, {"type": "double", "name": "x0_PANAMERA"}, {"type": "double",
+    "name": "x0_PRIUS"}, {"type": "double", "name": "x0_PRIUS PLUG-IN"}, {"type":
+    "double", "name": "x0_PRIUS PRIME"}, {"type": "double", "name": "x0_PS2"}, {"type":
+    "double", "name": "x0_Q4"}, {"type": "double", "name": "x0_Q5"}, {"type": "double",
+    "name": "x0_Q5 E"}, {"type": "double", "name": "x0_Q8"}, {"type": "double", "name":
+    "x0_R1S"}, {"type": "double", "name": "x0_R1T"}, {"type": "double", "name": "x0_RANGE
+    ROVER"}, {"type": "double", "name": "x0_RANGE ROVER SPORT"}, {"type": "double",
+    "name": "x0_RANGER"}, {"type": "double", "name": "x0_RAV4"}, {"type": "double",
+    "name": "x0_RAV4 PRIME"}, {"type": "double", "name": "x0_ROADSTER"}, {"type":
+    "double", "name": "x0_RS E-TRON GT"}, {"type": "double", "name": "x0_RZ 450E"},
+    {"type": "double", "name": "x0_S-10 PICKUP"}, {"type": "double", "name": "x0_S-CLASS"},
+    {"type": "double", "name": "x0_S60"}, {"type": "double", "name": "x0_S90"}, {"type":
+    "double", "name": "x0_SANTA FE"}, {"type": "double", "name": "x0_SOLTERRA"}, {"type":
+    "double", "name": "x0_SONATA"}, {"type": "double", "name": "x0_SORENTO"}, {"type":
+    "double", "name": "x0_SOUL"}, {"type": "double", "name": "x0_SOUL EV"}, {"type":
+    "double", "name": "x0_SPARK"}, {"type": "double", "name": "x0_SPORTAGE"}, {"type":
+    "double", "name": "x0_TAYCAN"}, {"type": "double", "name": "x0_TRANSIT"}, {"type":
+    "double", "name": "x0_TRANSIT CONNECT ELECTRIC"}, {"type": "double", "name": "x0_TUCSON"},
+    {"type": "double", "name": "x0_Unknown"}, {"type": "double", "name": "x0_V60"},
+    {"type": "double", "name": "x0_VOLT"}, {"type": "double", "name": "x0_WHEEGO"},
+    {"type": "double", "name": "x0_WRANGLER"}, {"type": "double", "name": "x0_X3"},
+    {"type": "double", "name": "x0_X5"}, {"type": "double", "name": "x0_XC40"}, {"type":
+    "double", "name": "x0_XC60"}, {"type": "double", "name": "x0_XC90"}, {"type":
+    "double", "name": "x0_Battery Electric Vehicle (BEV)"}, {"type": "double", "name":
+    "x0_Plug-in Hybrid Electric Vehicle (PHEV)"}, {"type": "long", "name": "County_priority"},
+    {"type": "long", "name": "City_priority"}, {"type": "long", "name": "State_priority"},
+    {"type": "double", "name": "Longitude"}, {"type": "double", "name": "Latitude"},
+    {"type": "long", "name": "Price_Range_Category"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2023-11-19 10:30:48.306965'

@@ -1,0 +1,6 @@
+
+### LinerRegression Run
+Changes and adaptations:
+- use OneCodeEncoder for the frature __VIN(1-10)__
+[See the changes in GitHub](https://github.com/ninovvas/End-to-End-ML-Project-Electric-Vehicle/commit/66063ed67d73ee2f02293d3ee52575f220886292).
+    

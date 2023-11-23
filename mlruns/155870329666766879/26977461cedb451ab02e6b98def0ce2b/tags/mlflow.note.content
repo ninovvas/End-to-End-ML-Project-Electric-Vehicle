@@ -1,0 +1,5 @@
+
+### LinerRegression Run
+Changes and adaptations:
+- Perform OneHotEncoder of the feature __Electric Utility__
+    

@@ -1,0 +1,6 @@
+
+### LinerRegression Run
+Changes and adaptations:
+- use a Hash function to convert the object value to int64 for the frature __VIN(1-10)__
+- add description to each run
+    
