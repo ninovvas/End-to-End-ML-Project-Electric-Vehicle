@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MyTrunk/SoftUni/Machine_Learning_Lab/End-to-End-ML-Project-Electric-Vehicle/mlruns/421169011665077755
+creation_time: 1700923981613
+experiment_id: '421169011665077755'
+last_update_time: 1700923981613
+lifecycle_stage: active
+name: DecisionTreeClassifier_Pipeline
