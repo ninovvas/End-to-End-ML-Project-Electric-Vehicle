@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MyTrunk/SoftUni/Machine_Learning_Lab/End-to-End-ML-Project-Electric-Vehicle/mlruns/421169011665077755/2395424c4f7d4c8da3001bc0d7493eaa/artifacts
+end_time: 1700943892507
+entry_point_name: ''
+experiment_id: '421169011665077755'
+lifecycle_stage: active
+run_id: 2395424c4f7d4c8da3001bc0d7493eaa
+run_name: DecisionTreeClassifier_PL_03
+run_uuid: 2395424c4f7d4c8da3001bc0d7493eaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700940821650
+status: 3
+tags: []
+user_id: David_Ninov
