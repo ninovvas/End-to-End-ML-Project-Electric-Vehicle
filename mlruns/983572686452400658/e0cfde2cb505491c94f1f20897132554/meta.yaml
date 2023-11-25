@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MyTrunk/SoftUni/Mashine_Learning_labs/End-to-End-ML-Project-Electric-Vehicle/mlruns/983572686452400658/e0cfde2cb505491c94f1f20897132554/artifacts
+end_time: 1700722719087
+entry_point_name: ''
+experiment_id: '983572686452400658'
+lifecycle_stage: active
+run_id: e0cfde2cb505491c94f1f20897132554
+run_name: SVC_PL_01
+run_uuid: e0cfde2cb505491c94f1f20897132554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700722494052
+status: 3
+tags: []
+user_id: GETAC USER
