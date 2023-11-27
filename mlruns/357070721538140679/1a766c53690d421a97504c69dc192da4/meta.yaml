@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MyTrunk/SoftUni/Machine_Learning_Lab/End-to-End-ML-Project-Electric-Vehicle/mlruns/357070721538140679/1a766c53690d421a97504c69dc192da4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '357070721538140679'
+lifecycle_stage: active
+run_id: 1a766c53690d421a97504c69dc192da4
+run_name: LinearSVC_PL_02
+run_uuid: 1a766c53690d421a97504c69dc192da4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700950619437
+status: 1
+tags: []
+user_id: David_Ninov

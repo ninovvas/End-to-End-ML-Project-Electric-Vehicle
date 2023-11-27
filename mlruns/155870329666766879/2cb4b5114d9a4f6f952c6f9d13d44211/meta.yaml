@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/MyTrunk/SoftUni/Mashine_Learning_labs/End-to-End-ML-Project-Electric-Vehicle/mlruns/155870329666766879/2cb4b5114d9a4f6f952c6f9d13d44211/artifacts
+deleted_time: 1700952510133
+end_time: 1700951598397
+entry_point_name: ''
+experiment_id: '155870329666766879'
+lifecycle_stage: deleted
+run_id: 2cb4b5114d9a4f6f952c6f9d13d44211
+run_name: LinearRegression_PL_10
+run_uuid: 2cb4b5114d9a4f6f952c6f9d13d44211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700951555220
+status: 3
+tags: []
+user_id: David_Ninov

@@ -1,0 +1,6 @@
+
+### LinerRegression Run
+Changes and adaptations:
+- Change the calculation of the Electric_Range_Category. The new function define diferent category for PHEV and BEV unsing different values ranges. 
+In the previous runs has been used the same category for PHEV and BEV, but with different values. This can be explain the results.
+- Use GridSearchCV

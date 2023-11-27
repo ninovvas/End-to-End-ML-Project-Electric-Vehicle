@@ -1,0 +1,1 @@
+{'classifier': LinearSVC(dual='auto', random_state=1), 'classifier__C': 10.0}

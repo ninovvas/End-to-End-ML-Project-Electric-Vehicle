@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1700991420941
+current_stage: None
+description: null
+last_updated_timestamp: 1700991420941
+name: DecisionTreeClassifier
+run_id: 6569e335c5544021aa88bbe2535a4d4b
+run_link: null
+source: file:///C:/MyTrunk/SoftUni/Mashine_Learning_labs/End-to-End-ML-Project-Electric-Vehicle/mlruns/155870329666766879/6569e335c5544021aa88bbe2535a4d4b/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///C:/MyTrunk/SoftUni/Mashine_Learning_labs/End-to-End-ML-Project-Electric-Vehicle/mlruns/155870329666766879/6569e335c5544021aa88bbe2535a4d4b/artifacts/sklearn-model
+user_id: null
+version: 9

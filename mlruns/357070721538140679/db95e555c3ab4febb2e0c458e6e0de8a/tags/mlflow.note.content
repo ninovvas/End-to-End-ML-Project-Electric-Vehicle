@@ -1,0 +1,5 @@
+
+### LinerRegression Run
+Changes and adaptations:
+- Run LinearSVC
+- Use GridSearchCV

@@ -1,0 +1,4 @@
+
+### LinerRegression Run
+Changes and adaptations:
+- Delete all rows in the column electric_vehicles['Electic Range'] == 0.0
